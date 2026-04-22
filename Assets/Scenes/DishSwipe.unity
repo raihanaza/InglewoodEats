@@ -1427,19 +1427,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1447,7 +1447,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -4358,10 +4358,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 577582008367749b9896b520df79679c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DishAnimation
-  animationDuration: 0.4
-  pullDistance: 1.5
+  pullDuration: 0.8
+  pullSpinSpeed: 720
+  pullScaleUp: 2.5
+  pullRiseAmount: 0.3
+  pushDuration: 0.5
   pushDistance: 1.5
   pushDropAmount: 1
+  pushSpinAmount: 45
+  spawnDuration: 0.6
+  pullColor: {r: 0, g: 0.5283019, b: 0.13207547, a: 1}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
+  glowIntensity: 1.5
+  idleRotateSpeed: 15
 --- !u!1 &2074238959
 GameObject:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class DishManager : MonoBehaviour
     {
         Debug.Log("Action: PULL — User wants to eat now!");
         if (dishAnimation != null)
-            dishAnimation.PlayPullAnimation(() => HideDish()); // animate then hide
+            dishAnimation.PlayPullAnimation(() => { });
         else
             HideDish();
     }
@@ -41,7 +41,7 @@ public class DishManager : MonoBehaviour
             HideDish();
     }
 
-    // Called when the user picks up the FORK.
+    // TODO: Called when the user picks up the FORK.
     public void OnDishFavorited()
     {
         Debug.Log("Action: FORK — User favorited this dish!");
