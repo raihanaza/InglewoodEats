@@ -4,6 +4,9 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
+// Using UDP networking to receive messages from MediaPipe Python script. 
+// Qill need to run locally on one machine.
+
 public class MediaPipeReceiver : MonoBehaviour
 {
     [Header("Network Settings")]
