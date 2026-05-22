@@ -1,0 +1,41 @@
+{
+    "dishes": [
+        {
+            "id": "dish_001",
+            "meal_name": "Oxtail Mac N' Cheese",
+            "restaurant": "Little Belize",
+            "ingredients": [
+                "Oxtail",
+                "Macaroni",
+                "Cheese",
+                "Brown Gravy"
+            ],
+            "allergens": [
+                "Dairy",
+                "Wheat"
+            ],
+            "address": "217 E Nutwod St, Inglewood, CA, 90301",
+            "area": "North Inglewood",
+            "picture": true,
+            "cusine_type": "Carribbean"
+        },
+        {
+            "id": "dish_002",
+            "meal_name": "Wet Burrito",
+            "restaurant": "La Fonda of Inglewood Restaurant & Cafe",
+            "ingredients": [
+                "Rice",
+                "Onion",
+                "Sour Cream",
+                "Lettuce",
+                "Tortilla",
+                "Monterrey Cheese"
+            ],
+            "allergens": "None",
+            "address": "4649 W Century Blvd, Inglewood, CA 90304",
+            "area": "North",
+            "picture": true,
+            "cusine_type": "Mexican"
+        }
+    ]
+}

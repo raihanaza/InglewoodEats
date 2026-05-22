@@ -18,6 +18,8 @@ public class DishAction : MonoBehaviour
     public void OnGrabbed()
     {
         startPosition = transform.position;
+        // this prints x, y, z coordinates
+        // <0.00, 0.00, 0.00>
         isBeingHeld = true;
 
         Debug.Log("Both hands holding. Start position recorded.");
@@ -30,6 +32,7 @@ public class DishAction : MonoBehaviour
 
         isBeingHeld = false;
 
+        // calculate the math between the start and end position of the plate, make them do the math 
         float zMovement = transform.position.z - startPosition.z;
 
         Debug.Log($"Z movement: {zMovement}");

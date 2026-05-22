@@ -3,7 +3,22 @@ using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Interactables;
 
 // Focuses on how many hands are interacting with the dish. Both hands must be holding for the gesture to count.
+// Gives the plate properties 
+// Every interaction that the user is doing, you have to write these rules
+// Recognize how many hands, which will lead to other things 
+// This is why we need to write this script outside the other files, because we want to separate the logic of how many hands are holding from the actual dish action (pull/push).
+// EXPLAIN: What rules do i need to write to make this apply. 
 
+// Explain purpose not the what
+
+// POST ITS
+// DishInteractiavle - responsible for ...
+// DishAction - responsible for ...
+// PlateSpawner - responsible for ...
+
+// Students should place the user flow (post its) to really understand the purpose of this script
+
+// why is it necessary to separarte the scripts? 
 public class DishInteractable : MonoBehaviour
 {
     private DishAction dishAction;
