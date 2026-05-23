@@ -9,7 +9,7 @@ public class Dish
     public string meal_name;
     public string restaurant;
     public List<string> ingredients;
-    public string allergens; // keeping as string to handle "None" case
+    public List<string> allergens;
     public string address;
     public string area;
     public bool picture;
