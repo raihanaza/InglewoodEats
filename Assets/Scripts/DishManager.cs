@@ -87,9 +87,10 @@ public class DishManager : MonoBehaviour
         if (dishAnimation != null)
             dishAnimation.PlayPushAnimation(() => {
                 NextDish();
+                dishAnimation.ResetPosition();
                 // Re-enable and re-animate the plate
-                if (dishAnimation != null)
-                    dishAnimation.gameObject.SetActive(true);
+                // if (dishAnimation != null)
+                //     dishAnimation.gameObject.SetActive(true);
             });
     }
 
