@@ -54,7 +54,7 @@ public class DishInteractable : MonoBehaviour
         handCount++;
         Debug.Log($"Hand grabbed. Total hands: {handCount}");
 
-        if (handCount == 2)
+        if (handCount == 1)
         {
             // Both hands are now holding 
             dishAction.OnGrabbed();
@@ -63,7 +63,7 @@ public class DishInteractable : MonoBehaviour
 
     private void OnHandReleased(SelectExitEventArgs args)
     {
-        if (handCount == 2)
+        if (handCount == 1)
         {
             dishAction.OnReleased();
         }

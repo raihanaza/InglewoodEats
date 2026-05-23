@@ -43,7 +43,7 @@ public class DishAnimation : MonoBehaviour
 
     void Start()
     {
-        StartCoroutine(SpawnRoutine());
+        StartIdle();
     }
 
 
@@ -107,14 +107,14 @@ public class DishAnimation : MonoBehaviour
     }
 
     private IEnumerator IdleRoutine()
-{
-    while (true)
     {
-        // 360 degree spin on table
-        transform.Rotate(0, idleRotateSpeed * Time.deltaTime, 0);
-        yield return null;
+        while (true)
+        {
+            // 360 degree spin on table
+            transform.Rotate(0, idleRotateSpeed * Time.deltaTime, 0);
+            yield return null;
+        }
     }
-}
 
     //  Fly to camera animation 
     private IEnumerator PullRoutine(System.Action onComplete)

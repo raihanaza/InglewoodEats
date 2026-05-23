@@ -49,8 +49,7 @@ public class DishManager : MonoBehaviour
         if (restaurantText) restaurantText.text = dish.restaurant;
         if (mealText) mealText.text = dish.meal_name;
         if (ingredientsText) ingredientsText.text = "Ingredients:\n" + string.Join("\n", dish.ingredients);
-        if (allergensText) allergensText.text = "Allergens: " + 
-            (dish.allergens != null ? dish.allergens : "None");
+        if (allergensText) allergensText.text = "Allergens:\n" + string.Join("\n", dish.allergens);
         if (addressText) addressText.text = dish.address;
 
         // Show correct 3D model, hide others

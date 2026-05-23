@@ -31,7 +31,10 @@
                 "Tortilla",
                 "Monterrey Cheese"
             ],
-            "allergens": "None",
+            "allergens": [
+                "Dairy",
+                "Wheat"
+            ],
             "address": "4649 W Century Blvd, Inglewood, CA 90304",
             "area": "North",
             "picture": true,

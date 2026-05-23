@@ -8,8 +8,8 @@ public class DishAction : MonoBehaviour
     public DishManager dishManager;
 
     [Header("Sensitivity Settings")]
-    public float pullThreshold = 0.3f;
-    public float pushThreshold = 0.3f;
+    public float pullThreshold = 0.05f;
+    public float pushThreshold = 0.05f;
 
     private Vector3 startPosition;
     private bool isBeingHeld = false;
@@ -33,16 +33,17 @@ public class DishAction : MonoBehaviour
         isBeingHeld = false;
 
         // calculate the math between the start and end position of the plate, make them do the math 
-        float zMovement = transform.position.z - startPosition.z;
+        // float zMovement = transform.position.z - startPosition.z;
+        Vector3 movement = transform.position - startPosition;
 
-        Debug.Log($"Z movement: {zMovement}");
+        Debug.Log($"MovementX: {movement.x}, Y: {movement.y}, Z: {movement.z}");
 
-        if (zMovement < -pullThreshold)
+        if (movement.z < -pullThreshold)
         {
             Debug.Log("Detected: PULL");
             dishManager.OnDishPulled();
         }
-        else if (zMovement > pushThreshold)
+        else if (movement.z > pushThreshold)
         {
             Debug.Log("Detected: PUSH");
             dishManager.OnDishPushed();
