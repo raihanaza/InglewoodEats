@@ -6,8 +6,8 @@ public class DishAnimation : MonoBehaviour
     [Header("Pull Animation")]
     public float pullDuration = 0.8f;
     public float pullSpinSpeed = 720f;
-    public float pullScaleUp = 2.5f;      // how big it gets as it flies toward you
-    public float pullRiseAmount = 0.3f;   // rises up before shooting forward
+    public float pullScaleUp = 2.5f;
+    public float pullRiseAmount = 0.3f;
 
     [Header("Push Animation")]
     public float pushDuration = 0.5f;
@@ -25,9 +25,6 @@ public class DishAnimation : MonoBehaviour
 
     [Header("Idle Spin Animation")]
     public float idleRotateSpeed = 45f;
-
-    // [Header("Food Models to Animate")]
-    // public Transform[] foodModels;
 
     private Renderer plateRenderer;
     private MaterialPropertyBlock propBlock;
@@ -147,7 +144,6 @@ public class DishAnimation : MonoBehaviour
                 startPos + new Vector3(0, pullRiseAmount, 0), eased);
             transform.localScale = Vector3.Lerp(startScale, startScale * 1.3f, eased);
             transform.Rotate(0, pullSpinSpeed * Time.deltaTime, 0);
-            // MoveFoodModels(transform.position, transform.localScale, transform.rotation);
 
             yield return null;
         }
@@ -170,7 +166,6 @@ public class DishAnimation : MonoBehaviour
             transform.position = Vector3.Lerp(risePos, facePos, eased);
             transform.localScale = startScale * scaleMultiplier;
             transform.Rotate(0, pullSpinSpeed * 1.5f * Time.deltaTime, 0);
-            // MoveFoodModels(transform.position, transform.localScale, transform.rotation);
 
             // Flash brighter as it approaches
             float flash = Mathf.Lerp(glowIntensity, glowIntensity * 2f, t);
@@ -214,7 +209,6 @@ public class DishAnimation : MonoBehaviour
             transform.position = Vector3.Lerp(startPos, endPos, eased);
             transform.rotation = Quaternion.Lerp(startRot, endRot, eased);
             transform.localScale = Vector3.Lerp(startScale, Vector3.zero, t * t);
-            // MoveFoodModels(transform.position, transform.localScale, transform.rotation);
 
             yield return null;
         }
@@ -229,7 +223,6 @@ public class DishAnimation : MonoBehaviour
         transform.position = originalPosition;
         transform.rotation = Quaternion.identity;
         transform.localScale = originalScale;
-        // MoveFoodModels(originalPosition, originalScale, Quaternion.identity);
         SetEmissionColor(normalColor);
         isAnimating = false;
         StartIdle();
@@ -243,17 +236,4 @@ public class DishAnimation : MonoBehaviour
         propBlock.SetColor("_EmissionColor", color);
         plateRenderer.SetPropertyBlock(propBlock);
     }
-
-    // private void MoveFoodModels(Vector3 position, Vector3 scale, Quaternion rotation)
-    // {
-    //     foreach (Transform food in foodModels)
-    //     {
-    //         if (food != null && food.gameObject.activeSelf)
-    //         {
-    //             food.position = position + new Vector3(0, 0.05f, 0);
-    //             food.localScale = scale;
-    //             food.rotation = rotation;
-    //         }
-    //     }
-    // }
 }

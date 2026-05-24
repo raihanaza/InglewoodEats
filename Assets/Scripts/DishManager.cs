@@ -9,18 +9,18 @@ public class DishManager : MonoBehaviour
     public GameObject[] dishModels; 
 
     [Header("Panel Text Fields")]
-    public TMP_Text restaurantText;   // NameTent
-    public TMP_Text mealText;         // NameTent
-    public TMP_Text ingredientsText;  // RightPanel
-    public TMP_Text allergensText;    // RightPanel
-    public TMP_Text addressText;      // LeftPanel
+    public TMP_Text restaurantText;
+    public TMP_Text mealText;
+    public TMP_Text ingredientsText;
+    public TMP_Text allergensText; 
+    public TMP_Text addressText;
 
     public TMP_Text areaText;
 
     public TMP_Text cuisineTypeText;
 
     [Header("Animation")]
-    public DishAnimation dishAnimation; // drag the Plate here
+    public DishAnimation dishAnimation;
 
     private DishList dishList;
     private int currentIndex = 0;
@@ -49,7 +49,7 @@ public class DishManager : MonoBehaviour
 
         Dish dish = dishList.dishes[index];
 
-        // Update panels
+        // Update text on panels
         if (restaurantText) restaurantText.text = dish.restaurant;
         if (mealText) mealText.text = dish.meal_name;
         if (ingredientsText) ingredientsText.text = "Ingredients:\n" + string.Join("\n", dish.ingredients);
@@ -58,7 +58,6 @@ public class DishManager : MonoBehaviour
         if (areaText) areaText.text = "Area:\n" + dish.area;
         if (cuisineTypeText) cuisineTypeText.text = "Cuisine Type:\n" + dish.cusine_type;
 
-        // Show correct 3D model, hide others
         for (int i = 0; i < dishModels.Length; i++)
         {
             if (dishModels[i] != null)
@@ -88,16 +87,7 @@ public class DishManager : MonoBehaviour
             dishAnimation.PlayPushAnimation(() => {
                 NextDish();
                 dishAnimation.ResetPosition();
-                // Re-enable and re-animate the plate
-                // if (dishAnimation != null)
-                //     dishAnimation.gameObject.SetActive(true);
             });
-    }
-
-    public void OnDishFavorited()
-    {
-        Debug.Log("Action: FORK — User favorited this dish!");
-        // TODO: Backlog to add to favorites/saved
     }
 
     void Update()

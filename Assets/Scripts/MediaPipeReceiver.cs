@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 
 // Using UDP networking to receive messages from MediaPipe Python script. 
-// Qill need to run locally on one machine.
+// Unused script for final demo, but can be used for future gesture recognition. 
 
 public class MediaPipeReceiver : MonoBehaviour
 {

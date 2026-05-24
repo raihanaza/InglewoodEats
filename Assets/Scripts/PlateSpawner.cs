@@ -4,6 +4,7 @@ using UnityEngine.XR.ARSubsystems;
 
 // Using AR Foundation package to detect solid plane (a.k.a. table) and have plate appear on it. 
 // Has a public method to spawn the plate between the cup and fork positions received from MediaPipeReceiver.
+// Unused script in final demo, but can be used for future AR table detection instead of relying on MediaPipe.
 
 public class PlateSpawner : MonoBehaviour
 {

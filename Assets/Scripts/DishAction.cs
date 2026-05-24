@@ -14,7 +14,6 @@ public class DishAction : MonoBehaviour
     private Vector3 startPosition;
     private bool isBeingHeld = false;
 
-    // Called when second hand grabs so both hands are now holding
     public void OnGrabbed()
     {
         startPosition = transform.position;
@@ -32,24 +31,10 @@ public class DishAction : MonoBehaviour
 
         isBeingHeld = false;
 
-        // calculate the math between the start and end position of the plate, make them do the math 
-        // float zMovement = transform.position.z - startPosition.z;
+        // calculate the math between the start and end position of the plate
         Vector3 movement = transform.position - startPosition;
 
         Debug.Log($"MovementX: {movement.x}, Y: {movement.y}, Z: {movement.z}");
-        // if (movement.z < -pullThreshold)
-        // {
-        //     Debug.Log("Detected: PULL");
-            
-        //     var grabInteractable = GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable>();
-        //     if (grabInteractable != null)
-        //     {
-        //         grabInteractable.enabled = false;
-        //         grabInteractable.enabled = true;
-        //     }
-
-        //     dishManager.OnDishPulled();
-        // }
 
         if (movement.z < -pullThreshold)
         {
