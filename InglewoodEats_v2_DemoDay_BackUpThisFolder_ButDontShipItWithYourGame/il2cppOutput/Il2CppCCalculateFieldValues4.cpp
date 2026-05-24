@@ -952,7 +952,7 @@ struct Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC  : public RuntimeObject
 	String_t* ___meal_name;
 	String_t* ___restaurant;
 	List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* ___ingredients;
-	String_t* ___allergens;
+	List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* ___allergens;
 	String_t* ___address;
 	String_t* ___area;
 	bool ___picture;
@@ -13449,6 +13449,8 @@ struct DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62  : public MonoBehav
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___ingredientsText;
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___allergensText;
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___addressText;
+	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___areaText;
+	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___cuisineTypeText;
 	DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* ___dishAnimation;
 	DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* ___dishList;
 	int32_t ___currentIndex;
@@ -15196,7 +15198,7 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 struct U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields
 {
 	U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* ___U3CU3E9;
-	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___U3CU3E9__13_0;
+	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___U3CU3E9__15_0;
 };
 struct U3CU3Ec_t5BFC160EE36C8CA8F04BE5598685F5C3946F9F94_StaticFields
 {
@@ -18770,10 +18772,10 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable13464[3] =
 	static_cast<int32_t>(offsetof(DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38, ___dishAction)),static_cast<int32_t>(offsetof(DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38, ___grabInteractable)),static_cast<int32_t>(offsetof(DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38, ___handCount)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable13465[2] = 
 {
-	static_cast<int32_t>(offsetof(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields, ___U3CU3E9)),static_cast<int32_t>(offsetof(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields, ___U3CU3E9__13_0)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable13466[9] = 
+	static_cast<int32_t>(offsetof(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields, ___U3CU3E9)),static_cast<int32_t>(offsetof(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields, ___U3CU3E9__15_0)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable13466[11] = 
 {
-	static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishModels)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___restaurantText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___mealText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___ingredientsText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___allergensText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___addressText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishAnimation)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishList)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___currentIndex)),};
+	static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishModels)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___restaurantText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___mealText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___ingredientsText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___allergensText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___addressText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___areaText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___cuisineTypeText)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishAnimation)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___dishList)),static_cast<int32_t>(offsetof(DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62, ___currentIndex)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable13467[8] = 
 {
 	static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___port)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___dishManager)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___plateSpawner)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___udpClient)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___receiveThread)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___isRunning)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___latestMessage)),static_cast<int32_t>(offsetof(MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6, ___messageLock)),};

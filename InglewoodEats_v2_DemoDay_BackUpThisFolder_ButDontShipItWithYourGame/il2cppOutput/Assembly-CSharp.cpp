@@ -267,7 +267,6 @@ IL2CPP_EXTERN_C RuntimeClass* Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_i
 IL2CPP_EXTERN_C RuntimeClass* Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* RuntimeObject_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* SocketException_t6D10102A62EA871BD31748E026A372DB6804083B_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* ThreadStart_t7662D98F1793EDE90192D7304D1C3C44119328A2_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Thread_t0A773B9DE873D2DCAA7D229EAB36757B500E207F_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935_il2cpp_TypeInfo_var;
@@ -295,7 +294,9 @@ IL2CPP_EXTERN_C String_t* _stringLiteral3DD648F9D0AD038FF69CC1DC3A6A9F6BFF1B3C9E
 IL2CPP_EXTERN_C String_t* _stringLiteral4D16ABEFD4211D5BE749CF11C8B256021C7E42EC;
 IL2CPP_EXTERN_C String_t* _stringLiteral5445145A0D6F902B5F5418048F5F7AF6C00D1EEA;
 IL2CPP_EXTERN_C String_t* _stringLiteral5A7F57A3E53A6B5CDD1E0F17FD70CA6BCDCB4053;
+IL2CPP_EXTERN_C String_t* _stringLiteral73DFC46EB80A53782F555700C9A042526B68F7D5;
 IL2CPP_EXTERN_C String_t* _stringLiteral79735D11069024E3B11C0308C1B7EA34A027225B;
+IL2CPP_EXTERN_C String_t* _stringLiteral7A287F90CAF2D64A1CC900C15E5FF6E39716120D;
 IL2CPP_EXTERN_C String_t* _stringLiteral7B731AA20D97AA2E3CB7E042B4659C6D7EBFDCFF;
 IL2CPP_EXTERN_C String_t* _stringLiteral7E1F2FC1D0F9D2099E45C6805E261A3644C4C783;
 IL2CPP_EXTERN_C String_t* _stringLiteral98ED7C5F604DF0A1B97D5FAB053CC1AA7799A2C8;
@@ -321,7 +322,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisRenderer_t320575F
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* DishInteractable_OnHandGrabbed_m01C7F9837A257D5536250A5A8FB6B92939982F0A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* DishInteractable_OnHandReleased_mC37F98EA42C242892F6F96012D5D647E0CE9E8FA_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* DishManager_U3COnDishPushedU3Eb__14_0_m9FB706358BEB828D3E9325479F7AA65233A4C27D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* DishManager_U3COnDishPushedU3Eb__16_0_mE83C976F9F6A12AB3031BD2E2FBF32BFDC2A2FC0_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_Dispose_m7E5D3FA6C78EAFCB9BBACEC799DDD30462558FD1_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_MoveNext_mBEBCACB1FE02CD96775C47002B58503777719BFD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Enumerator_get_Current_mB0E34D608F82F52A9D1FB954D259C3B5AE40EEBA_RuntimeMethod_var;
@@ -338,7 +339,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* U3CIdleRoutineU3Ed__26_System_Collections_I
 IL2CPP_EXTERN_C const RuntimeMethod* U3CPullRoutineU3Ed__27_System_Collections_IEnumerator_Reset_m6A256C093C9636FA91284DD1A1B179355B18C05A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CPushRoutineU3Ed__28_System_Collections_IEnumerator_Reset_m6F598D9FBF1AE414BDD9A57E2E1619A6669673F2_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CSpawnRoutineU3Ed__23_System_Collections_IEnumerator_Reset_m55169CFE3B50DD84898B42D29068EEF6029C35C6_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3COnDishPulledU3Eb__13_0_m4F2AED710CD4E89BF3BE1A65F9E413B276AF8C46_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3COnDishPulledU3Eb__15_0_mBDFC341774A7646CD5F8DAAEC1007114FB3B736C_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_AddListener_m0E7576A2A31A1FF338177623DF253203C943A44C_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_AddListener_mAE71681FB0832FD7DBA813E5ADDBA574EA32EED2_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_AddListener_mB662756036996A6B6F83F6492CE9E26797AF9602_RuntimeMethod_var;
@@ -352,7 +353,6 @@ struct Exception_t_marshaled_pinvoke;
 
 struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
 struct GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF;
-struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248;
 
 IL2CPP_EXTERN_C_BEGIN
 IL2CPP_EXTERN_C_END
@@ -411,7 +411,7 @@ struct Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC  : public RuntimeObject
 	String_t* ___meal_name;
 	String_t* ___restaurant;
 	List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* ___ingredients;
-	String_t* ___allergens;
+	List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* ___allergens;
 	String_t* ___address;
 	String_t* ___area;
 	bool ___picture;
@@ -2278,6 +2278,8 @@ struct DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62  : public MonoBehav
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___ingredientsText;
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___allergensText;
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___addressText;
+	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___areaText;
+	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___cuisineTypeText;
 	DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* ___dishAnimation;
 	DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* ___dishList;
 	int32_t ___currentIndex;
@@ -2829,7 +2831,7 @@ struct String_t_StaticFields
 struct U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields
 {
 	U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* ___U3CU3E9;
-	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___U3CU3E9__13_0;
+	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___U3CU3E9__15_0;
 };
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 {
@@ -2961,40 +2963,6 @@ struct TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_StaticFields
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248  : public RuntimeArray
-{
-	ALIGN_FIELD (8) String_t* m_Items[1];
-
-	inline String_t* GetAt(il2cpp_array_size_t index) const
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items[index];
-	}
-	inline String_t** GetAddressAt(il2cpp_array_size_t index)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items + index;
-	}
-	inline void SetAt(il2cpp_array_size_t index, String_t* value)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-	inline String_t* GetAtUnchecked(il2cpp_array_size_t index) const
-	{
-		return m_Items[index];
-	}
-	inline String_t** GetAddressAtUnchecked(il2cpp_array_size_t index)
-	{
-		return m_Items + index;
-	}
-	inline void SetAtUnchecked(il2cpp_array_size_t index, String_t* value)
-	{
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-};
 struct GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF  : public RuntimeArray
 {
 	ALIGN_FIELD (8) GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* m_Items[1];
@@ -3108,6 +3076,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour_StopCoroutine_mB0FC91BE842
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26__ctor_m13BBB78C5BE469328A93B0CAD851DE1804A442E8 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27__ctor_mB5F1FBFC71264A642309157AFF98008687AE796A (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28__ctor_m3C2C11920A9E325ACC606FF4C3B4A7A79A529023 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour_StopAllCoroutines_m872033451D42013A99867D09337490017E9ED318 (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_color, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Renderer_GetPropertyBlock_mD062F90343D70151CA060AE7EBEF2E85146A9FBA (Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* __this, MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* ___0_properties, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MaterialPropertyBlock_SetColor_m5B4E910B5E42518BBD0088055EB68E4A3A609DDE (MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* __this, String_t* ___0_name, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_value, const RuntimeMethod* method) ;
@@ -3124,11 +3097,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Multiply_m379B20A820266ACF82A21425B9CAE8DCD773CFBB_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_a, float ___1_b, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_color, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline (float ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, float ___2_t, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Lerp_m47EF2FFB7647BD0A1FDC26DC03E28B19812139B5_inline (float ___0_a, float ___1_b, float ___2_t, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Action_Invoke_m7126A54DACA72B845424072887B5F3A51FC3808E_inline (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_normalized_m736BBF65D5CDA7A18414370D15B4DFCC1E466F07_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, const RuntimeMethod* method) ;
@@ -3136,7 +3107,6 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_op_Multiply_mCB375FCCC12A2EC8F9EB824A1BFB4453B58C2012_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___0_lhs, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___1_rhs, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_red_mA2E53E7173FDC97E68E335049AB0FAAEE43A844D_inline (const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_Lerp_m259606226726C2F46E079A5A688B9E24FF7E9A0D_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___0_a, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___1_b, float ___2_t, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline (const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_Lerp_mE79F87889843ECDC188E4CB5B5E1F1B2256E5EBE_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_a, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_b, float ___2_t, const RuntimeMethod* method) ;
 inline DishAction_tB591EAB8FCA47E405365F2626B95521CD3B225C2* Component_GetComponent_TisDishAction_tB591EAB8FCA47E405365F2626B95521CD3B225C2_m2C024BCFF416C4BBABCA189FFF0AFC27791325B0 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
@@ -3201,7 +3171,6 @@ inline Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* List_1_get_Item_m97630708
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_exists, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Join_m8159F953B3D62AA54A0853A6E9573CDC0F63E158 (String_t* ___0_separator, RuntimeObject* ___1_values, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Join_m557B6B554B87C1742FA0B128500073B421ED0BFD (String_t* ___0_separator, StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* ___1_value, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, bool ___0_value, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987 (String_t* ___0_format, RuntimeObject* ___1_arg0, RuntimeObject* ___2_arg1, const RuntimeMethod* method) ;
@@ -3213,6 +3182,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KeyControl_t1686D14A78AEC9364B8C7628DD482DE99
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ButtonControl_get_wasPressedThisFrame_m6ED1DB185035A406B0659A055C3096A5058DBD5B (ButtonControl_t85949109B98AAF5B7ADC0285F0EC98A61EC88ECF* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR KeyControl_t1686D14A78AEC9364B8C7628DD482DE99CC20FE0* Keyboard_get_xKey_m8234B30AAA760C2D336E5553718A4E4646D4DF07 (Keyboard_t015BD1A6508137D20B4395295F6E002773FAAF43* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_NextDish_m6CA6B2BDB1DFA0772893370EF7F45A6BE21621D0 (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_ResetPosition_m3BC00E76A8C33F650C9ABC94B466FE29C6F1DEE0 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m2179ED0841E95FCA2463B59BD7918DBCEEC9D792 (U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_StartListening_m6E853CEA9FB195E6947C6D0C8FF48181CD2FD558 (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UdpClient__ctor_m6DCF61B7A404114E51B86974B1B4E028F45C3442 (UdpClient_t03C5278D44ADD98C3A506D8EA5445309FDF1F5B8* __this, int32_t ___0_port, const RuntimeMethod* method) ;
@@ -3277,7 +3247,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 PlateSpawner_NormalizedToWorld_mAAD474CEC7007111B3089EBB032DCF473B2AF8E3 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_normalized, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) ;
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline (const RuntimeMethod* method) ;
 inline GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m831D2F71DF2AA6C93AFDFEFA04CF2CFC5FBBCDB4 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_original, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_position, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___2_rotation, const RuntimeMethod* method)
 {
 	return ((  GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974, const RuntimeMethod*))Object_Instantiate_TisRuntimeObject_m249A6BA4F2F19C2D3CE217D4D31847DF0EF03EFE_gshared)(___0_original, ___1_position, ___2_rotation, method);
@@ -3391,7 +3360,7 @@ IL_0009:
 		L_17 = String_Format_mA0534D6E2AE4D67A6BD8D45B3321323930EB930C(_stringLiteral12216D24C4ABD1FBDF71AC95CB2D20BFD8DEBCBA, L_8, L_12, L_16, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_17, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:41>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:54>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_18 = V_0;
 		float L_19 = L_18.___z;
 		float L_20 = __this->___pullThreshold;
@@ -3401,10 +3370,10 @@ IL_0009:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:43>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:56>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral0C6EAB403AB3D4FAE1EA4E9911B38C846CC42947, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:44>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:57>
 		DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* L_21 = __this->___dishManager;
 		NullCheck(L_21);
 		DishManager_OnDishPulled_m994CB9AA11FEBA8DDC723566067ADC3974A78FBF(L_21, NULL);
@@ -3413,7 +3382,7 @@ IL_0009:
 
 IL_007c:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:46>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:59>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_22 = V_0;
 		float L_23 = L_22.___z;
 		float L_24 = __this->___pushThreshold;
@@ -3423,10 +3392,10 @@ IL_007c:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:48>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:61>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralB5FDC850B5176D8C0882902D54E6F52F2D0D2B6A, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:49>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:62>
 		DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* L_25 = __this->___dishManager;
 		NullCheck(L_25);
 		DishManager_OnDishPushed_m6CBF72FE48F346B4EF4A490AE86D8F50564BA03C(L_25, NULL);
@@ -3435,16 +3404,16 @@ IL_007c:
 
 IL_00a0:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:53>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:66>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral7E1F2FC1D0F9D2099E45C6805E261A3644C4C783, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:54>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:67>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_26;
 		L_26 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_27 = __this->___startPosition;
 		NullCheck(L_26);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_26, L_27, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:56>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAction.cs:69>
 		return;
 	}
 }
@@ -3479,31 +3448,31 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_Awake_m59DE4BF2C153597C655
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:38>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:41>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_0;
 		L_0 = Component_GetComponent_TisRenderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF_mC91ACC92AD57CA6CA00991DAF1DB3830BCE07AF8(__this, Component_GetComponent_TisRenderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF_mC91ACC92AD57CA6CA00991DAF1DB3830BCE07AF8_RuntimeMethod_var);
 		__this->___plateRenderer = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___plateRenderer), (void*)L_0);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:39>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:42>
 		MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* L_1 = (MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D*)il2cpp_codegen_object_new(MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D_il2cpp_TypeInfo_var);
 		MaterialPropertyBlock__ctor_m14C3432585F7BB65028BCD64A0FD6607A1B490FB(L_1, NULL);
 		__this->___propBlock = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___propBlock), (void*)L_1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:40>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:43>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2;
 		L_2 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		NullCheck(L_2);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
 		L_3 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_2, NULL);
 		__this->___originalPosition = L_3;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:41>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:44>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4;
 		L_4 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		NullCheck(L_4);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
 		L_5 = Transform_get_localScale_m804A002A53A645CDFCD15BB0F37209162720363F(L_4, NULL);
 		__this->___originalScale = L_5;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:42>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:45>
 		return;
 	}
 }
@@ -3511,9 +3480,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_Awake_m59DE4BF2C153597C655
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_Start_mCC4576104AD5A56BC043F0D38110BBDB69789FD5 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:46>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:49>
 		DishAnimation_StartIdle_m1634C58E1BD459E3BD53750BA04FA58DC8CBD320(__this, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:47>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:50>
 		return;
 	}
 }
@@ -3521,7 +3490,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_Start_mCC4576104AD5A56BC04
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_PlayPullAnimation_m714C4E657339CB4684E00EF7E912F6F7E5E26D81 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_onComplete, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:52>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:55>
 		bool L_0 = __this->___isAnimating;
 		if (!L_0)
 		{
@@ -3529,21 +3498,21 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_PlayPullAnimation_m714C4E6
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:52>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:55>
 		return;
 	}
 
 IL_0009:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:53>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:56>
 		DishAnimation_StopIdle_m6FF53E1E02F2CBB2F1B3597F237699DBFD94F08D(__this, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:54>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:57>
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_1 = ___0_onComplete;
 		RuntimeObject* L_2;
 		L_2 = DishAnimation_PullRoutine_m2F84240C85D10C097B93CF8DC1B3FC71386486FE(__this, L_1, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_3;
 		L_3 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_2, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:55>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:58>
 		return;
 	}
 }
@@ -3551,7 +3520,7 @@ IL_0009:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_PlayPushAnimation_m1EF39C1FB05C60D25B99E6B8122D116F1533A949 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_onComplete, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:59>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:62>
 		bool L_0 = __this->___isAnimating;
 		if (!L_0)
 		{
@@ -3559,21 +3528,21 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_PlayPushAnimation_m1EF39C1
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:59>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:62>
 		return;
 	}
 
 IL_0009:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:60>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:63>
 		DishAnimation_StopIdle_m6FF53E1E02F2CBB2F1B3597F237699DBFD94F08D(__this, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:61>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:64>
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_1 = ___0_onComplete;
 		RuntimeObject* L_2;
 		L_2 = DishAnimation_PushRoutine_mD58A26331AB86A73F1EDD953031F462F11AC5866(__this, L_1, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_3;
 		L_3 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_2, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:62>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:65>
 		return;
 	}
 }
@@ -3600,14 +3569,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* DishAnimation_SpawnRoutine_mE7
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_StartIdle_m1634C58E1BD459E3BD53750BA04FA58DC8CBD320 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:100>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:103>
 		RuntimeObject* L_0;
 		L_0 = DishAnimation_IdleRoutine_m04C83A686447884A7C88E7B13556FB7824AD3B17(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
 		__this->___idleCoroutine = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___idleCoroutine), (void*)L_1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:101>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:104>
 		return;
 	}
 }
@@ -3615,7 +3584,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_StartIdle_m1634C58E1BD459E
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_StopIdle_m6FF53E1E02F2CBB2F1B3597F237699DBFD94F08D (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:105>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:108>
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_0 = __this->___idleCoroutine;
 		if (!L_0)
 		{
@@ -3623,14 +3592,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_StopIdle_m6FF53E1E02F2CBB2
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:106>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:109>
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1 = __this->___idleCoroutine;
 		MonoBehaviour_StopCoroutine_mB0FC91BE84203BD8E360B3FBAE5B958B4C5ED22A(__this, L_1, NULL);
 	}
 
 IL_0014:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:107>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:110>
 		return;
 	}
 }
@@ -3702,6 +3671,42 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* DishAnimation_PushRoutine_mD58
 	}
 }
 // Method Definition Index: 110780
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_ResetPosition_m3BC00E76A8C33F650C9ABC94B466FE29C6F1DEE0 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:228>
+		MonoBehaviour_StopAllCoroutines_m872033451D42013A99867D09337490017E9ED318(__this, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:229>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
+		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = __this->___originalPosition;
+		NullCheck(L_0);
+		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_0, L_1, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:230>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2;
+		L_2 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_3;
+		L_3 = Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline(NULL);
+		NullCheck(L_2);
+		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_2, L_3, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:231>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4;
+		L_4 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = __this->___originalScale;
+		NullCheck(L_4);
+		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_4, L_5, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:233>
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_6 = __this->___normalColor;
+		DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78(__this, L_6, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:234>
+		__this->___isAnimating = (bool)0;
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:235>
+		DishAnimation_StartIdle_m1634C58E1BD459E3BD53750BA04FA58DC8CBD320(__this, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:236>
+		return;
+	}
+}
+// Method Definition Index: 110781
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_color, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3712,7 +3717,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_SetEmissionColor_m6E2E772C
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:224>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:241>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_0 = __this->___plateRenderer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -3723,32 +3728,32 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation_SetEmissionColor_m6E2E772C
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:224>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:241>
 		return;
 	}
 
 IL_000f:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:225>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:242>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_2 = __this->___plateRenderer;
 		MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* L_3 = __this->___propBlock;
 		NullCheck(L_2);
 		Renderer_GetPropertyBlock_mD062F90343D70151CA060AE7EBEF2E85146A9FBA(L_2, L_3, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:226>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:243>
 		MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* L_4 = __this->___propBlock;
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_5 = ___0_color;
 		NullCheck(L_4);
 		MaterialPropertyBlock_SetColor_m5B4E910B5E42518BBD0088055EB68E4A3A609DDE(L_4, _stringLiteralB92EF51E45166C91E2762DB6C9F27C8BD6EBE466, L_5, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:227>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:244>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_6 = __this->___plateRenderer;
 		MaterialPropertyBlock_t2308669579033A857EFE6E4831909F638B27411D* L_7 = __this->___propBlock;
 		NullCheck(L_6);
 		Renderer_SetPropertyBlock_mF565698782FE54580B17CC0BFF9B0C4F0D68DF50(L_6, L_7, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:228>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:245>
 		return;
 	}
 }
-// Method Definition Index: 110781
+// Method Definition Index: 110782
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation__ctor_mDFA89C9C5A89C1F30259DDF4A142F00F2762BB06 (DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3795,7 +3800,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishAnimation__ctor_mDFA89C9C5A89C1F3025
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110782
+// Method Definition Index: 110783
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26__ctor_m13BBB78C5BE469328A93B0CAD851DE1804A442E8 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -3805,14 +3810,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26__ctor_m13BBB78C5B
 		return;
 	}
 }
-// Method Definition Index: 110783
+// Method Definition Index: 110784
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26_System_IDisposable_Dispose_m57A46442A778BE8A5FB69B531C5F4989AD47AD23 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 110784
+// Method Definition Index: 110785
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CIdleRoutineU3Ed__26_MoveNext_mBD058DA4C9C1CC7591D2209793A71047276C8557 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -3846,7 +3851,7 @@ IL_0017:
 
 IL_001e:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:114>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:117>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_4 = V_1;
 		NullCheck(L_4);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
@@ -3858,7 +3863,7 @@ IL_001e:
 		L_8 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		NullCheck(L_5);
 		Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2(L_5, (0.0f), ((float)il2cpp_codegen_multiply(L_7, L_8)), (0.0f), NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:115>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:118>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -3868,11 +3873,11 @@ IL_001e:
 IL_004f:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:111>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:114>
 		goto IL_001e;
 	}
 }
-// Method Definition Index: 110785
+// Method Definition Index: 110786
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CIdleRoutineU3Ed__26_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD6B156A4393CA31608E1653C84E023F0992ED307 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3880,7 +3885,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CIdleRoutineU3Ed__26_System_
 		return L_0;
 	}
 }
-// Method Definition Index: 110786
+// Method Definition Index: 110787
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26_System_Collections_IEnumerator_Reset_mDD6A3DF21DED98C0372D628898F129833802E18D (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3889,7 +3894,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIdleRoutineU3Ed__26_System_Collection
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CIdleRoutineU3Ed__26_System_Collections_IEnumerator_Reset_mDD6A3DF21DED98C0372D628898F129833802E18D_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 110787
+// Method Definition Index: 110788
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CIdleRoutineU3Ed__26_System_Collections_IEnumerator_get_Current_m102B3E064842C247027ACFB46A64CEF49D04E867 (U3CIdleRoutineU3Ed__26_t6BE6CA253EADFF6E87C3ACF77F5A523C2734F935* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3905,7 +3910,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CIdleRoutineU3Ed__26_System_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110788
+// Method Definition Index: 110789
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27__ctor_mB5F1FBFC71264A642309157AFF98008687AE796A (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -3915,14 +3920,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27__ctor_mB5F1FBFC71
 		return;
 	}
 }
-// Method Definition Index: 110789
+// Method Definition Index: 110790
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27_System_IDisposable_Dispose_m460DFC53FAC7A9E3923B7839675215A7A6A96431 (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 110790
+// Method Definition Index: 110791
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CPullRoutineU3Ed__27_MoveNext_m7A1264A1479FCA42FF5506EAF27F274DA74A2278 (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -3967,11 +3972,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CPullRoutineU3Ed__27_MoveNext_m7A1264A
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:122>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:125>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_3 = V_1;
 		NullCheck(L_3);
 		L_3->___isAnimating = (bool)1;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:124>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:127>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_4 = V_1;
 		NullCheck(L_4);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
@@ -3980,7 +3985,7 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
 		L_6 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_5, NULL);
 		__this->___U3CstartPosU3E5__2 = L_6;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:125>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:128>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_7 = V_1;
 		NullCheck(L_7);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8;
@@ -3989,7 +3994,7 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
 		L_9 = Transform_get_localScale_m804A002A53A645CDFCD15BB0F37209162720363F(L_8, NULL);
 		__this->___U3CstartScaleU3E5__3 = L_9;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:126>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:129>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_10 = V_1;
 		NullCheck(L_10);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_11;
@@ -3997,7 +4002,7 @@ IL_0022:
 		NullCheck(L_11);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_12;
 		L_12 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_11, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:128>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:131>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_13;
 		L_13 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		NullCheck(L_13);
@@ -4007,7 +4012,7 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_15;
 		L_15 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_14, NULL);
 		V_2 = L_15;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:129>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:132>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16 = V_2;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_17;
 		L_17 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
@@ -4018,18 +4023,18 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_19;
 		L_19 = Transform_get_forward_mFCFACF7165FDAB21E80E384C494DF278386CEE2F(L_18, NULL);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_20;
-		L_20 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_19, (0.800000012f), NULL);
+		L_20 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_19, (1.0f), NULL);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_21;
 		L_21 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_16, L_20, NULL);
 		__this->___U3CfacePosU3E5__4 = L_21;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:132>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:135>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_22 = V_1;
 		NullCheck(L_22);
 		float L_23 = L_22->___pullDuration;
 		__this->___U3Cphase1DurationU3E5__5 = ((float)il2cpp_codegen_multiply(L_23, (0.300000012f)));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:133>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:136>
 		__this->___U3CelapsedU3E5__6 = (0.0f);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:135>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:138>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_24 = V_1;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_25 = V_1;
 		NullCheck(L_25);
@@ -4046,23 +4051,23 @@ IL_0022:
 
 IL_00cc:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:139>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:142>
 		float L_30 = __this->___U3CelapsedU3E5__6;
 		float L_31;
 		L_31 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___U3CelapsedU3E5__6 = ((float)il2cpp_codegen_add(L_30, L_31));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:140>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:143>
 		float L_32 = __this->___U3CelapsedU3E5__6;
 		float L_33 = __this->___U3Cphase1DurationU3E5__5;
 		float L_34;
 		L_34 = Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline(((float)(L_32/L_33)), NULL);
 		V_3 = L_34;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:141>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:144>
 		float L_35 = V_3;
 		float L_36 = V_3;
 		V_4 = ((float)il2cpp_codegen_subtract((1.0f), ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_subtract((1.0f), L_35)), ((float)il2cpp_codegen_subtract((1.0f), L_36))))));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:143>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:144>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:146>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:147>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_37 = V_1;
 		NullCheck(L_37);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_38;
@@ -4082,7 +4087,7 @@ IL_00cc:
 		L_46 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_39, L_44, L_45, NULL);
 		NullCheck(L_38);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_38, L_46, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:145>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:148>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_47 = V_1;
 		NullCheck(L_47);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_48;
@@ -4096,7 +4101,7 @@ IL_00cc:
 		L_53 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_49, L_51, L_52, NULL);
 		NullCheck(L_48);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_48, L_53, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:146>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:149>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_54 = V_1;
 		NullCheck(L_54);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_55;
@@ -4108,7 +4113,7 @@ IL_00cc:
 		L_58 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		NullCheck(L_55);
 		Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2(L_55, (0.0f), ((float)il2cpp_codegen_multiply(L_57, L_58)), (0.0f), NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:148>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:152>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -4122,7 +4127,7 @@ IL_0199:
 
 IL_01a0:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:137>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:140>
 		float L_59 = __this->___U3CelapsedU3E5__6;
 		float L_60 = __this->___U3Cphase1DurationU3E5__5;
 		if ((((float)L_59) < ((float)L_60)))
@@ -4131,12 +4136,12 @@ IL_01a0:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:152>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:156>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_61 = V_1;
 		NullCheck(L_61);
 		float L_62 = L_61->___pullDuration;
 		__this->___U3Cphase2DurationU3E5__7 = ((float)il2cpp_codegen_multiply(L_62, (0.699999988f)));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:153>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:157>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_63 = V_1;
 		NullCheck(L_63);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_64;
@@ -4145,41 +4150,41 @@ IL_01a0:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_65;
 		L_65 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_64, NULL);
 		__this->___U3CrisePosU3E5__8 = L_65;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:154>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:158>
 		__this->___U3CelapsedU3E5__6 = (0.0f);
 		goto IL_02dc;
 	}
 
 IL_01e4:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:158>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:162>
 		float L_66 = __this->___U3CelapsedU3E5__6;
 		float L_67;
 		L_67 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___U3CelapsedU3E5__6 = ((float)il2cpp_codegen_add(L_66, L_67));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:159>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:163>
 		float L_68 = __this->___U3CelapsedU3E5__6;
 		float L_69 = __this->___U3Cphase2DurationU3E5__7;
 		float L_70;
 		L_70 = Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline(((float)(L_68/L_69)), NULL);
 		V_5 = L_70;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:160>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:164>
 		float L_71 = V_5;
 		float L_72 = V_5;
 		float L_73 = V_5;
 		V_6 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_71, L_72)), L_73));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:163>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:167>
 		float L_74 = V_5;
 		float L_75;
 		L_75 = sinf(((float)il2cpp_codegen_multiply(L_74, (3.14159274f))));
 		V_7 = L_75;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:164>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:168>
 		float L_76 = V_7;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_77 = V_1;
 		NullCheck(L_77);
 		float L_78 = L_77->___pullScaleUp;
 		V_8 = ((float)il2cpp_codegen_add((1.0f), ((float)il2cpp_codegen_multiply(L_76, ((float)il2cpp_codegen_subtract(L_78, (1.0f)))))));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:166>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:170>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_79 = V_1;
 		NullCheck(L_79);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_80;
@@ -4191,7 +4196,7 @@ IL_01e4:
 		L_84 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_81, L_82, L_83, NULL);
 		NullCheck(L_80);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_80, L_84, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:167>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:171>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_85 = V_1;
 		NullCheck(L_85);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_86;
@@ -4202,7 +4207,7 @@ IL_01e4:
 		L_89 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_87, L_88, NULL);
 		NullCheck(L_86);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_86, L_89, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:168>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:172>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_90 = V_1;
 		NullCheck(L_90);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_91;
@@ -4214,7 +4219,7 @@ IL_01e4:
 		L_94 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		NullCheck(L_91);
 		Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2(L_91, (0.0f), ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_93, (1.5f))), L_94)), (0.0f), NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:171>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:176>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_95 = V_1;
 		NullCheck(L_95);
 		float L_96 = L_95->___glowIntensity;
@@ -4225,7 +4230,7 @@ IL_01e4:
 		float L_100;
 		L_100 = Mathf_Lerp_m47EF2FFB7647BD0A1FDC26DC03E28B19812139B5_inline(L_96, ((float)il2cpp_codegen_multiply(L_98, (2.0f))), L_99, NULL);
 		V_9 = L_100;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:172>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:177>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_101 = V_1;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_102 = V_1;
 		NullCheck(L_102);
@@ -4235,7 +4240,7 @@ IL_01e4:
 		L_105 = Color_op_Multiply_m379B20A820266ACF82A21425B9CAE8DCD773CFBB_inline(L_103, L_104, NULL);
 		NullCheck(L_101);
 		DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78(L_101, L_105, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:174>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:179>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 2;
@@ -4249,7 +4254,7 @@ IL_02d5:
 
 IL_02dc:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:156>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:160>
 		float L_106 = __this->___U3CelapsedU3E5__6;
 		float L_107 = __this->___U3Cphase2DurationU3E5__7;
 		if ((((float)L_106) < ((float)L_107)))
@@ -4258,7 +4263,7 @@ IL_02dc:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:177>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:182>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_108 = V_1;
 		NullCheck(L_108);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_109;
@@ -4266,7 +4271,7 @@ IL_02dc:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_110 = __this->___U3CfacePosU3E5__4;
 		NullCheck(L_109);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_109, L_110, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:178>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:183>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_111 = V_1;
 		NullCheck(L_111);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_112;
@@ -4276,11 +4281,11 @@ IL_02dc:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_114 = L_113->___originalScale;
 		NullCheck(L_112);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_112, L_114, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:180>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:185>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_115 = V_1;
 		NullCheck(L_115);
 		L_115->___isAnimating = (bool)0;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:181>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:186>
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_116 = __this->___onComplete;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_117 = L_116;
 		if (L_117)
@@ -4302,11 +4307,11 @@ IL_0322:
 
 IL_0327:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:182>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:187>
 		return (bool)0;
 	}
 }
-// Method Definition Index: 110791
+// Method Definition Index: 110792
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPullRoutineU3Ed__27_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m47CAF7EFD367DE9BBB97DE45A59B69473ED538E7 (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4314,7 +4319,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPullRoutineU3Ed__27_System_
 		return L_0;
 	}
 }
-// Method Definition Index: 110792
+// Method Definition Index: 110793
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27_System_Collections_IEnumerator_Reset_m6A256C093C9636FA91284DD1A1B179355B18C05A (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4323,7 +4328,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPullRoutineU3Ed__27_System_Collection
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CPullRoutineU3Ed__27_System_Collections_IEnumerator_Reset_m6A256C093C9636FA91284DD1A1B179355B18C05A_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 110793
+// Method Definition Index: 110794
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPullRoutineU3Ed__27_System_Collections_IEnumerator_get_Current_m365653A878053726F71F0AC44EEB549719A0FA91 (U3CPullRoutineU3Ed__27_tD810EAD7CC658AE17E7B49B5ACAE39DE50DC63C9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4339,7 +4344,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPullRoutineU3Ed__27_System_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110794
+// Method Definition Index: 110795
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28__ctor_m3C2C11920A9E325ACC606FF4C3B4A7A79A529023 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -4349,14 +4354,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28__ctor_m3C2C11920A
 		return;
 	}
 }
-// Method Definition Index: 110795
+// Method Definition Index: 110796
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28_System_IDisposable_Dispose_m0F71605D3745F213C9DBC40770977EB27DA4F0DE (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 110796
+// Method Definition Index: 110797
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CPushRoutineU3Ed__28_MoveNext_m0CC6DAFB533E845E9E12C1068C58D94E5635EB84 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -4394,11 +4399,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CPushRoutineU3Ed__28_MoveNext_m0CC6DAF
 IL_001a:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:187>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:192>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_4 = V_1;
 		NullCheck(L_4);
 		L_4->___isAnimating = (bool)1;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:189>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:194>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_5 = V_1;
 		NullCheck(L_5);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
@@ -4407,7 +4412,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
 		L_7 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_6, NULL);
 		__this->___U3CstartPosU3E5__2 = L_7;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:190>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:195>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_8 = V_1;
 		NullCheck(L_8);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9;
@@ -4416,7 +4421,7 @@ IL_001a:
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_10;
 		L_10 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_9, NULL);
 		__this->___U3CstartRotU3E5__3 = L_10;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:191>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:196>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_11 = V_1;
 		NullCheck(L_11);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_12;
@@ -4425,7 +4430,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
 		L_13 = Transform_get_localScale_m804A002A53A645CDFCD15BB0F37209162720363F(L_12, NULL);
 		__this->___U3CstartScaleU3E5__4 = L_13;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:194>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:199>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_14 = V_1;
 		NullCheck(L_14);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_15;
@@ -4447,8 +4452,8 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_21;
 		L_21 = Vector3_get_normalized_m736BBF65D5CDA7A18414370D15B4DFCC1E466F07_inline((&V_3), NULL);
 		V_2 = L_21;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:195>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:196>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:200>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:201>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_22 = __this->___U3CstartPosU3E5__2;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_23 = V_2;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_24 = V_1;
@@ -4467,7 +4472,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_31;
 		L_31 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_27, L_30, NULL);
 		__this->___U3CendPosU3E5__5 = L_31;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:198>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:203>
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_32 = __this->___U3CstartRotU3E5__3;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_33 = V_1;
 		NullCheck(L_33);
@@ -4480,7 +4485,7 @@ IL_001a:
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_38;
 		L_38 = Quaternion_op_Multiply_mCB375FCCC12A2EC8F9EB824A1BFB4453B58C2012_inline(L_32, L_37, NULL);
 		__this->___U3CendRotU3E5__6 = L_38;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:200>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:205>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_39 = V_1;
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_40;
 		L_40 = Color_get_red_mA2E53E7173FDC97E68E335049AB0FAAEE43A844D_inline(NULL);
@@ -4491,19 +4496,19 @@ IL_001a:
 		L_43 = Color_op_Multiply_m379B20A820266ACF82A21425B9CAE8DCD773CFBB_inline(L_40, L_42, NULL);
 		NullCheck(L_39);
 		DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78(L_39, L_43, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:202>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:207>
 		__this->___U3CelapsedU3E5__7 = (0.0f);
 		goto IL_01c0;
 	}
 
 IL_010e:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:205>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:210>
 		float L_44 = __this->___U3CelapsedU3E5__7;
 		float L_45;
 		L_45 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___U3CelapsedU3E5__7 = ((float)il2cpp_codegen_add(L_44, L_45));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:206>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:211>
 		float L_46 = __this->___U3CelapsedU3E5__7;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_47 = V_1;
 		NullCheck(L_47);
@@ -4511,11 +4516,11 @@ IL_010e:
 		float L_49;
 		L_49 = Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline(((float)(L_46/L_48)), NULL);
 		V_4 = L_49;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:207>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:212>
 		float L_50 = V_4;
 		float L_51 = V_4;
 		V_5 = ((float)il2cpp_codegen_subtract((1.0f), ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_subtract((1.0f), L_50)), ((float)il2cpp_codegen_subtract((1.0f), L_51))))));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:209>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:214>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_52 = V_1;
 		NullCheck(L_52);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_53;
@@ -4527,7 +4532,7 @@ IL_010e:
 		L_57 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_54, L_55, L_56, NULL);
 		NullCheck(L_53);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_53, L_57, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:210>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:215>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_58 = V_1;
 		NullCheck(L_58);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_59;
@@ -4539,7 +4544,7 @@ IL_010e:
 		L_63 = Quaternion_Lerp_m259606226726C2F46E079A5A688B9E24FF7E9A0D_inline(L_60, L_61, L_62, NULL);
 		NullCheck(L_59);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_59, L_63, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:212>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:216>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_64 = V_1;
 		NullCheck(L_64);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_65;
@@ -4553,7 +4558,7 @@ IL_010e:
 		L_70 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_66, L_67, ((float)il2cpp_codegen_multiply(L_68, L_69)), NULL);
 		NullCheck(L_65);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_65, L_70, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:214>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:219>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -4567,7 +4572,7 @@ IL_01b9:
 
 IL_01c0:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:203>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:208>
 		float L_71 = __this->___U3CelapsedU3E5__7;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_72 = V_1;
 		NullCheck(L_72);
@@ -4578,11 +4583,11 @@ IL_01c0:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:217>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:222>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_74 = V_1;
 		NullCheck(L_74);
 		L_74->___isAnimating = (bool)0;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:218>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:223>
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_75 = __this->___onComplete;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_76 = L_75;
 		if (L_76)
@@ -4604,11 +4609,11 @@ IL_01e4:
 
 IL_01e9:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:219>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:224>
 		return (bool)0;
 	}
 }
-// Method Definition Index: 110797
+// Method Definition Index: 110798
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPushRoutineU3Ed__28_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m1347035EED54CE85DA59B73719763C9282BB1D83 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4616,7 +4621,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPushRoutineU3Ed__28_System_
 		return L_0;
 	}
 }
-// Method Definition Index: 110798
+// Method Definition Index: 110799
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28_System_Collections_IEnumerator_Reset_m6F598D9FBF1AE414BDD9A57E2E1619A6669673F2 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4625,7 +4630,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPushRoutineU3Ed__28_System_Collection
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CPushRoutineU3Ed__28_System_Collections_IEnumerator_Reset_m6F598D9FBF1AE414BDD9A57E2E1619A6669673F2_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 110799
+// Method Definition Index: 110800
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPushRoutineU3Ed__28_System_Collections_IEnumerator_get_Current_m0220D57E6EEE9C0830D6B7AE7AEAC97C942D9E88 (U3CPushRoutineU3Ed__28_t7DD4831A4C5DAF239C06D7D331D4D88890E330C4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4641,7 +4646,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPushRoutineU3Ed__28_System_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110800
+// Method Definition Index: 110801
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSpawnRoutineU3Ed__23__ctor_m04A0C4CBF7A5867D78B35ECB1F31EC6E54FC0738 (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -4651,14 +4656,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSpawnRoutineU3Ed__23__ctor_m04A0C4CBF
 		return;
 	}
 }
-// Method Definition Index: 110801
+// Method Definition Index: 110802
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSpawnRoutineU3Ed__23_System_IDisposable_Dispose_mD486EEC049D9D7555B2779FEA5EAC57763D570D8 (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 110802
+// Method Definition Index: 110803
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CSpawnRoutineU3Ed__23_MoveNext_m3A222C8F3636EE4B000196E4AE67BC894C18AB65 (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -4692,7 +4697,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CSpawnRoutineU3Ed__23_MoveNext_m3A222C
 IL_001a:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:67>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:70>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_4 = V_1;
 		NullCheck(L_4);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
@@ -4701,7 +4706,7 @@ IL_001a:
 		L_6 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
 		NullCheck(L_5);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_5, L_6, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:68>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:71>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_7 = V_1;
 		NullCheck(L_7);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8 = L_7->___originalPosition;
@@ -4711,7 +4716,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10;
 		L_10 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_8, L_9, NULL);
 		__this->___U3CbelowPosU3E5__2 = L_10;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:69>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:72>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_11 = V_1;
 		NullCheck(L_11);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_12;
@@ -4719,19 +4724,19 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13 = __this->___U3CbelowPosU3E5__2;
 		NullCheck(L_12);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_12, L_13, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:71>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:74>
 		__this->___U3CelapsedU3E5__3 = (0.0f);
 		goto IL_016e;
 	}
 
 IL_0077:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:74>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:77>
 		float L_14 = __this->___U3CelapsedU3E5__3;
 		float L_15;
 		L_15 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___U3CelapsedU3E5__3 = ((float)il2cpp_codegen_add(L_14, L_15));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:75>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:78>
 		float L_16 = __this->___U3CelapsedU3E5__3;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_17 = V_1;
 		NullCheck(L_17);
@@ -4739,17 +4744,17 @@ IL_0077:
 		float L_19;
 		L_19 = Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline(((float)(L_16/L_18)), NULL);
 		V_2 = L_19;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:76>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:79>
 		float L_20 = V_2;
 		float L_21;
 		L_21 = powf(((float)il2cpp_codegen_subtract((1.0f), L_20)), (3.0f));
 		V_3 = ((float)il2cpp_codegen_subtract((1.0f), L_21));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:77>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:80>
 		float L_22 = V_2;
 		float L_23;
 		L_23 = sinf(((float)il2cpp_codegen_multiply(L_22, (3.14159274f))));
 		V_4 = ((float)il2cpp_codegen_multiply(L_23, (0.150000006f)));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:79>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:82>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_24 = V_1;
 		NullCheck(L_24);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_25;
@@ -4764,8 +4769,8 @@ IL_0077:
 		L_30 = Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline(L_26, L_28, L_29, NULL);
 		NullCheck(L_25);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_25, L_30, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:80>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:81>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:83>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:84>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_31 = V_1;
 		NullCheck(L_31);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_32;
@@ -4785,12 +4790,12 @@ IL_0077:
 		L_40 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_37, L_39, NULL);
 		NullCheck(L_32);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_32, L_40, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:84>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:87>
 		float L_41 = __this->___U3CelapsedU3E5__3;
 		float L_42;
 		L_42 = sinf(((float)il2cpp_codegen_multiply(L_41, (20.0f))));
 		V_5 = ((float)il2cpp_codegen_add(((float)il2cpp_codegen_multiply(L_42, (0.5f))), (0.5f)));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:85>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:88>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_43 = V_1;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_44 = V_1;
 		NullCheck(L_44);
@@ -4804,7 +4809,7 @@ IL_0077:
 		L_50 = Color_Lerp_mE79F87889843ECDC188E4CB5B5E1F1B2256E5EBE_inline(L_45, L_47, ((float)il2cpp_codegen_multiply(L_48, ((float)il2cpp_codegen_subtract((1.0f), L_49)))), NULL);
 		NullCheck(L_43);
 		DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78(L_43, L_50, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:87>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:90>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -4818,7 +4823,7 @@ IL_0167:
 
 IL_016e:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:72>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:75>
 		float L_51 = __this->___U3CelapsedU3E5__3;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_52 = V_1;
 		NullCheck(L_52);
@@ -4829,7 +4834,7 @@ IL_016e:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:90>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:93>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_54 = V_1;
 		NullCheck(L_54);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_55;
@@ -4839,7 +4844,7 @@ IL_016e:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_57 = L_56->___originalScale;
 		NullCheck(L_55);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_55, L_57, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:91>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:94>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_58 = V_1;
 		NullCheck(L_58);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_59;
@@ -4849,22 +4854,22 @@ IL_016e:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_61 = L_60->___originalPosition;
 		NullCheck(L_59);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_59, L_61, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:92>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:95>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_62 = V_1;
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_63 = V_1;
 		NullCheck(L_63);
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_64 = L_63->___normalColor;
 		NullCheck(L_62);
 		DishAnimation_SetEmissionColor_m6E2E772C11E56D41B35C3386289446CD36B3EE78(L_62, L_64, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:94>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:97>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_65 = V_1;
 		NullCheck(L_65);
 		DishAnimation_StartIdle_m1634C58E1BD459E3BD53750BA04FA58DC8CBD320(L_65, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:95>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishAnimation.cs:98>
 		return (bool)0;
 	}
 }
-// Method Definition Index: 110803
+// Method Definition Index: 110804
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CSpawnRoutineU3Ed__23_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE9B167B6A8D806520D42CED679C4FDEACF627C6E (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4872,7 +4877,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CSpawnRoutineU3Ed__23_System
 		return L_0;
 	}
 }
-// Method Definition Index: 110804
+// Method Definition Index: 110805
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSpawnRoutineU3Ed__23_System_Collections_IEnumerator_Reset_m55169CFE3B50DD84898B42D29068EEF6029C35C6 (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4881,7 +4886,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSpawnRoutineU3Ed__23_System_Collectio
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CSpawnRoutineU3Ed__23_System_Collections_IEnumerator_Reset_m55169CFE3B50DD84898B42D29068EEF6029C35C6_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 110805
+// Method Definition Index: 110806
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CSpawnRoutineU3Ed__23_System_Collections_IEnumerator_get_Current_m0BE68F20981E48DE50D9C01AD2FB9770CDC76E12 (U3CSpawnRoutineU3Ed__23_tA6E03F8635C1F96A9F4883D0A03C29830323A1FB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4897,7 +4902,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CSpawnRoutineU3Ed__23_System
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110806
+// Method Definition Index: 110807
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dish__ctor_m174CA6C22D7BBD230CF21EDC7EFB1BDFBE114F42 (Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4913,7 +4918,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dish__ctor_m174CA6C22D7BBD230CF21EDC7EFB
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110807
+// Method Definition Index: 110808
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishList__ctor_mB3CDCD87A43441C0EBF55996A181AD3B908A806F (DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4929,7 +4934,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishList__ctor_mB3CDCD87A43441C0EBF55996
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110808
+// Method Definition Index: 110809
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_Awake_mCEC9DF9087C587351351CCA60C6EB365767525D9 (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5008,7 +5013,7 @@ IL_0068:
 		return;
 	}
 }
-// Method Definition Index: 110809
+// Method Definition Index: 110810
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnEnable_mE25855C73EFF383DF7D940B981355B3356FF066A (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5045,7 +5050,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnEnable_mE25855C73EFF3
 		return;
 	}
 }
-// Method Definition Index: 110810
+// Method Definition Index: 110811
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnDisable_m006957C34B1C12DA1FC88BC812F34B97CEEE5902 (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5082,7 +5087,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnDisable_m006957C34B1C
 		return;
 	}
 }
-// Method Definition Index: 110811
+// Method Definition Index: 110812
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnHandGrabbed_m01C7F9837A257D5536250A5A8FB6B92939982F0A (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, SelectEnterEventArgs_t9220B1E6A9BB5A847C0476949ACE0182430BB938* ___0_args, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5124,7 +5129,7 @@ IL_003c:
 		return;
 	}
 }
-// Method Definition Index: 110812
+// Method Definition Index: 110813
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable_OnHandReleased_mC37F98EA42C242892F6F96012D5D647E0CE9E8FA (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, SelectExitEventArgs_t56125CE0360D37AC0B50EB6066B5AB5957EF559A* ___0_args, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5180,7 +5185,7 @@ IL_0032:
 		return;
 	}
 }
-// Method Definition Index: 110813
+// Method Definition Index: 110814
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable__ctor_m810B9D3EAF4165292AA11F481149588F1761E277 (DishInteractable_t826E6C3BD23945826CDF98281249D2F03D5E7B38* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5196,20 +5201,20 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishInteractable__ctor_m810B9D3EAF416529
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110814
+// Method Definition Index: 110815
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_Start_m656171D72CDE56B7BA0A69866CC6740565DEA9FF (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:26>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:30>
 		DishManager_LoadDishes_m9C72F735A158DA13C61259C66C4D0822924B7C2F(__this, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:27>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:31>
 		int32_t L_0 = __this->___currentIndex;
 		DishManager_ShowDish_m83D52807571B2926B8734D6AD1AB2F5FF6FDF098(__this, L_0, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:28>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:32>
 		return;
 	}
 }
-// Method Definition Index: 110815
+// Method Definition Index: 110816
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_LoadDishes_m9C72F735A158DA13C61259C66C4D0822924B7C2F (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5227,11 +5232,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_LoadDishes_m9C72F735A158DA13
 	}
 	TextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69* V_0 = NULL;
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:32>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:36>
 		TextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69* L_0;
 		L_0 = Resources_Load_TisTextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69_m55E770DF81AB6D40763121667DA5E743EF1036B2(_stringLiteralBE4C4EBAC129F0C2ED22DD052364F9532CC9FFE9, Resources_Load_TisTextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69_m55E770DF81AB6D40763121667DA5E743EF1036B2_RuntimeMethod_var);
 		V_0 = L_0;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:33>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:37>
 		TextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69* L_1 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_2;
@@ -5242,16 +5247,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_LoadDishes_m9C72F735A158DA13
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:35>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:39>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral5445145A0D6F902B5F5418048F5F7AF6C00D1EEA, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:36>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:40>
 		return;
 	}
 
 IL_001f:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:38>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:42>
 		TextAsset_t2C64E93DA366D9DE5A8209E1802FA4884AC1BD69* L_3 = V_0;
 		NullCheck(L_3);
 		String_t* L_4;
@@ -5260,7 +5265,7 @@ IL_001f:
 		L_5 = JsonUtility_FromJson_TisDishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C_m93FD19E2B2FA7F943986B1A8E6F38C83FD8CC8A9(L_4, JsonUtility_FromJson_TisDishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C_m93FD19E2B2FA7F943986B1A8E6F38C83FD8CC8A9_RuntimeMethod_var);
 		__this->___dishList = L_5;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___dishList), (void*)L_5);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:39>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:43>
 		DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* L_6 = __this->___dishList;
 		NullCheck(L_6);
 		List_1_tBCD0FA7533B18227CE8D8F41E8EA1EE61AB47BFA* L_7 = L_6->___dishes;
@@ -5273,11 +5278,11 @@ IL_001f:
 		L_11 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralB1039D9ACA32E1CBFC54A3310C0E0D9991D1F2F0, L_10, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_11, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:40>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:44>
 		return;
 	}
 }
-// Method Definition Index: 110816
+// Method Definition Index: 110817
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_ShowDish_m83D52807571B2926B8734D6AD1AB2F5FF6FDF098 (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, int32_t ___0_index, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5287,9 +5292,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_ShowDish_m83D52807571B2926B8
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_get_Count_mD6820F39863E7C94B72306E441EDD563958CC89C_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_get_Item_m97630708CC869AE02AE49258E0BC1219E0E0867C_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2E01A5E49F6891CEF0155EC431F004EC22DFE45F);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral73DFC46EB80A53782F555700C9A042526B68F7D5);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A287F90CAF2D64A1CC900C15E5FF6E39716120D);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDFFE88A99D57F23E8132B7A98A1B92D5159E2DA8);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralE9E23C13CCB63F99F49A513347BC1C9AFCA5F271);
 		s_Il2CppMethodInitialized = true;
@@ -5297,7 +5303,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_ShowDish_m83D52807571B2926B8
 	Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* V_0 = NULL;
 	int32_t V_1 = 0;
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:44>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:48>
 		DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* L_0 = __this->___dishList;
 		if (!L_0)
 		{
@@ -5319,13 +5325,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_ShowDish_m83D52807571B2926B8
 
 IL_001a:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:44>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:48>
 		return;
 	}
 
 IL_001b:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:46>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:50>
 		DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* L_4 = __this->___dishList;
 		NullCheck(L_4);
 		List_1_tBCD0FA7533B18227CE8D8F41E8EA1EE61AB47BFA* L_5 = L_4->___dishes;
@@ -5334,7 +5340,7 @@ IL_001b:
 		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_7;
 		L_7 = List_1_get_Item_m97630708CC869AE02AE49258E0BC1219E0E0867C(L_5, L_6, List_1_get_Item_m97630708CC869AE02AE49258E0BC1219E0E0867C_RuntimeMethod_var);
 		V_0 = L_7;
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:49>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:53>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_8 = __this->___restaurantText;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_9;
@@ -5345,7 +5351,7 @@ IL_001b:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:49>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:53>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_10 = __this->___restaurantText;
 		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_11 = V_0;
 		NullCheck(L_11);
@@ -5356,7 +5362,7 @@ IL_001b:
 
 IL_004b:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:50>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:54>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_13 = __this->___mealText;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_14;
@@ -5367,7 +5373,7 @@ IL_004b:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:50>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:54>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_15 = __this->___mealText;
 		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_16 = V_0;
 		NullCheck(L_16);
@@ -5378,7 +5384,7 @@ IL_004b:
 
 IL_0069:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:51>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:55>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_18 = __this->___ingredientsText;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_19;
@@ -5389,7 +5395,7 @@ IL_0069:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:51>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:55>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_20 = __this->___ingredientsText;
 		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_21 = V_0;
 		NullCheck(L_21);
@@ -5404,127 +5410,171 @@ IL_0069:
 
 IL_009b:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:52>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:56>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_25 = __this->___allergensText;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_26;
 		L_26 = Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A(L_25, NULL);
 		if (!L_26)
 		{
-			goto IL_00d6;
+			goto IL_00cd;
 		}
 	}
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:52>
-		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_27 = __this->___allergensText;
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_28 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)1);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_29 = L_28;
-		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_30 = V_0;
-		NullCheck(L_30);
-		String_t* L_31 = L_30->___allergens;
-		NullCheck(L_29);
-		(L_29)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)L_31);
-		String_t* L_32;
-		L_32 = String_Join_m557B6B554B87C1742FA0B128500073B421ED0BFD(_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD, L_29, NULL);
-		String_t* L_33;
-		L_33 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralE9E23C13CCB63F99F49A513347BC1C9AFCA5F271, L_32, NULL);
-		NullCheck(L_27);
-		VirtualActionInvoker1< String_t* >::Invoke(66, L_27, L_33);
-	}
-
-IL_00d6:
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:53>
-		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_34 = __this->___addressText;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_35;
-		L_35 = Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A(L_34, NULL);
-		if (!L_35)
-		{
-			goto IL_00f4;
-		}
-	}
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:53>
-		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_36 = __this->___addressText;
-		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_37 = V_0;
-		NullCheck(L_37);
-		String_t* L_38 = L_37->___address;
-		NullCheck(L_36);
-		VirtualActionInvoker1< String_t* >::Invoke(66, L_36, L_38);
-	}
-
-IL_00f4:
 	{
 		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:56>
-		V_1 = 0;
-		goto IL_011d;
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_27 = __this->___allergensText;
+		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_28 = V_0;
+		NullCheck(L_28);
+		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_29 = L_28->___allergens;
+		String_t* L_30;
+		L_30 = String_Join_m8159F953B3D62AA54A0853A6E9573CDC0F63E158(_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD, L_29, NULL);
+		String_t* L_31;
+		L_31 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralE9E23C13CCB63F99F49A513347BC1C9AFCA5F271, L_30, NULL);
+		NullCheck(L_27);
+		VirtualActionInvoker1< String_t* >::Invoke(66, L_27, L_31);
 	}
 
-IL_00f8:
+IL_00cd:
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:57>
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_32 = __this->___addressText;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_33;
+		L_33 = Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A(L_32, NULL);
+		if (!L_33)
+		{
+			goto IL_00eb;
+		}
+	}
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:57>
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_34 = __this->___addressText;
+		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_35 = V_0;
+		NullCheck(L_35);
+		String_t* L_36 = L_35->___address;
+		NullCheck(L_34);
+		VirtualActionInvoker1< String_t* >::Invoke(66, L_34, L_36);
+	}
+
+IL_00eb:
 	{
 		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:58>
-		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_39 = __this->___dishModels;
-		int32_t L_40 = V_1;
-		NullCheck(L_39);
-		int32_t L_41 = L_40;
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_42 = (L_39)->GetAt(static_cast<il2cpp_array_size_t>(L_41));
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_37 = __this->___areaText;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_43;
-		L_43 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_42, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_43)
+		bool L_38;
+		L_38 = Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A(L_37, NULL);
+		if (!L_38)
 		{
-			goto IL_0119;
+			goto IL_0113;
+		}
+	}
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:58>
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_39 = __this->___areaText;
+		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_40 = V_0;
+		NullCheck(L_40);
+		String_t* L_41 = L_40->___area;
+		String_t* L_42;
+		L_42 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral73DFC46EB80A53782F555700C9A042526B68F7D5, L_41, NULL);
+		NullCheck(L_39);
+		VirtualActionInvoker1< String_t* >::Invoke(66, L_39, L_42);
+	}
+
+IL_0113:
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:59>
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_43 = __this->___cuisineTypeText;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_44;
+		L_44 = Object_op_Implicit_m93896EF7D68FA113C42D3FE2BC6F661FC7EF514A(L_43, NULL);
+		if (!L_44)
+		{
+			goto IL_013b;
 		}
 	}
 	{
 		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:59>
-		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_44 = __this->___dishModels;
-		int32_t L_45 = V_1;
-		NullCheck(L_44);
-		int32_t L_46 = L_45;
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_47 = (L_44)->GetAt(static_cast<il2cpp_array_size_t>(L_46));
-		int32_t L_48 = V_1;
-		int32_t L_49 = ___0_index;
-		NullCheck(L_47);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_47, (bool)((((int32_t)L_48) == ((int32_t)L_49))? 1 : 0), NULL);
+		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_45 = __this->___cuisineTypeText;
+		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_46 = V_0;
+		NullCheck(L_46);
+		String_t* L_47 = L_46->___cusine_type;
+		String_t* L_48;
+		L_48 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral7A287F90CAF2D64A1CC900C15E5FF6E39716120D, L_47, NULL);
+		NullCheck(L_45);
+		VirtualActionInvoker1< String_t* >::Invoke(66, L_45, L_48);
 	}
 
-IL_0119:
+IL_013b:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:56>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:62>
+		V_1 = 0;
+		goto IL_0164;
+	}
+
+IL_013f:
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:64>
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_49 = __this->___dishModels;
 		int32_t L_50 = V_1;
-		V_1 = ((int32_t)il2cpp_codegen_add(L_50, 1));
-	}
-
-IL_011d:
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:56>
-		int32_t L_51 = V_1;
-		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_52 = __this->___dishModels;
-		NullCheck(L_52);
-		if ((((int32_t)L_51) < ((int32_t)((int32_t)(((RuntimeArray*)L_52)->max_length)))))
+		NullCheck(L_49);
+		int32_t L_51 = L_50;
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_52 = (L_49)->GetAt(static_cast<il2cpp_array_size_t>(L_51));
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_53;
+		L_53 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_52, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_53)
 		{
-			goto IL_00f8;
+			goto IL_0160;
 		}
 	}
 	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:65>
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_54 = __this->___dishModels;
+		int32_t L_55 = V_1;
+		NullCheck(L_54);
+		int32_t L_56 = L_55;
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_57 = (L_54)->GetAt(static_cast<il2cpp_array_size_t>(L_56));
+		int32_t L_58 = V_1;
+		int32_t L_59 = ___0_index;
+		NullCheck(L_57);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_57, (bool)((((int32_t)L_58) == ((int32_t)L_59))? 1 : 0), NULL);
+	}
+
+IL_0160:
+	{
 		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:62>
-		int32_t L_53 = ___0_index;
-		int32_t L_54 = L_53;
-		RuntimeObject* L_55 = Box(il2cpp_defaults.int32_class, &L_54);
-		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_56 = V_0;
-		NullCheck(L_56);
-		String_t* L_57 = L_56->___meal_name;
-		String_t* L_58;
-		L_58 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral2E01A5E49F6891CEF0155EC431F004EC22DFE45F, L_55, L_57, NULL);
+		int32_t L_60 = V_1;
+		V_1 = ((int32_t)il2cpp_codegen_add(L_60, 1));
+	}
+
+IL_0164:
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:62>
+		int32_t L_61 = V_1;
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_62 = __this->___dishModels;
+		NullCheck(L_62);
+		if ((((int32_t)L_61) < ((int32_t)((int32_t)(((RuntimeArray*)L_62)->max_length)))))
+		{
+			goto IL_013f;
+		}
+	}
+	{
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:68>
+		int32_t L_63 = ___0_index;
+		int32_t L_64 = L_63;
+		RuntimeObject* L_65 = Box(il2cpp_defaults.int32_class, &L_64);
+		Dish_tCF831F7ABDA6DA50844344DEEE732AFF935BC6AC* L_66 = V_0;
+		NullCheck(L_66);
+		String_t* L_67 = L_66->___meal_name;
+		String_t* L_68;
+		L_68 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral2E01A5E49F6891CEF0155EC431F004EC22DFE45F, L_65, L_67, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
-		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_58, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:63>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_68, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:69>
 		return;
 	}
 }
-// Method Definition Index: 110817
+// Method Definition Index: 110818
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_NextDish_m6CA6B2BDB1DFA0772893370EF7F45A6BE21621D0 (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5534,7 +5584,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_NextDish_m6CA6B2BDB1DFA07728
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:67>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:73>
 		int32_t L_0 = __this->___currentIndex;
 		DishList_t8BA8DE1ED4201382D2242D12BD838954ABCBA25C* L_1 = __this->___dishList;
 		NullCheck(L_1);
@@ -5543,14 +5593,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_NextDish_m6CA6B2BDB1DFA07728
 		int32_t L_3;
 		L_3 = List_1_get_Count_mD6820F39863E7C94B72306E441EDD563958CC89C_inline(L_2, List_1_get_Count_mD6820F39863E7C94B72306E441EDD563958CC89C_RuntimeMethod_var);
 		__this->___currentIndex = ((int32_t)(((int32_t)il2cpp_codegen_add(L_0, 1))%L_3));
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:68>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:74>
 		int32_t L_4 = __this->___currentIndex;
 		DishManager_ShowDish_m83D52807571B2926B8734D6AD1AB2F5FF6FDF098(__this, L_4, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:69>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:75>
 		return;
 	}
 }
-// Method Definition Index: 110818
+// Method Definition Index: 110819
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPulled_m994CB9AA11FEBA8DDC723566067ADC3974A78FBF (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5559,7 +5609,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPulled_m994CB9AA11FEBA
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_U3COnDishPulledU3Eb__13_0_m4F2AED710CD4E89BF3BE1A65F9E413B276AF8C46_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_U3COnDishPulledU3Eb__15_0_mBDFC341774A7646CD5F8DAAEC1007114FB3B736C_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral183CD019905BF4F37FAE2F80B19336BA30DBAD37);
 		s_Il2CppMethodInitialized = true;
@@ -5569,10 +5619,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPulled_m994CB9AA11FEBA
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* G_B2_0 = NULL;
 	DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* G_B2_1 = NULL;
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:73>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:79>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral183CD019905BF4F37FAE2F80B19336BA30DBAD37, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:74>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:80>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_0 = __this->___dishAnimation;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -5583,10 +5633,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPulled_m994CB9AA11FEBA
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:75>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:81>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_2 = __this->___dishAnimation;
 		il2cpp_codegen_runtime_class_init_inline(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var);
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_3 = ((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__13_0;
+		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_3 = ((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__15_0;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_4 = L_3;
 		if (L_4)
 		{
@@ -5601,10 +5651,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPulled_m994CB9AA11FEBA
 		il2cpp_codegen_runtime_class_init_inline(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var);
 		U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* L_5 = ((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_6 = (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)il2cpp_codegen_object_new(Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
-		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_6, L_5, (intptr_t)((void*)U3CU3Ec_U3COnDishPulledU3Eb__13_0_m4F2AED710CD4E89BF3BE1A65F9E413B276AF8C46_RuntimeMethod_var), NULL);
+		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_6, L_5, (intptr_t)((void*)U3CU3Ec_U3COnDishPulledU3Eb__15_0_mBDFC341774A7646CD5F8DAAEC1007114FB3B736C_RuntimeMethod_var), NULL);
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_7 = L_6;
-		((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__13_0 = L_7;
-		Il2CppCodeGenWriteBarrier((void**)(&((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__13_0), (void*)L_7);
+		((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__15_0 = L_7;
+		Il2CppCodeGenWriteBarrier((void**)(&((U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224_il2cpp_TypeInfo_var))->___U3CU3E9__15_0), (void*)L_7);
 		G_B3_0 = L_7;
 		G_B3_1 = G_B2_1;
 	}
@@ -5617,11 +5667,11 @@ IL_003d:
 
 IL_0042:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:76>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:82>
 		return;
 	}
 }
-// Method Definition Index: 110819
+// Method Definition Index: 110820
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPushed_m6CBF72FE48F346B4EF4A490AE86D8F50564BA03C (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5629,16 +5679,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPushed_m6CBF72FE48F346
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&DishManager_U3COnDishPushedU3Eb__14_0_m9FB706358BEB828D3E9325479F7AA65233A4C27D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&DishManager_U3COnDishPushedU3Eb__16_0_mE83C976F9F6A12AB3031BD2E2FBF32BFDC2A2FC0_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralF6421C4EB86CA932CF51572ACBD06348F991AB26);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:80>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:86>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralF6421C4EB86CA932CF51572ACBD06348F991AB26, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:81>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:87>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_0 = __this->___dishAnimation;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -5649,26 +5699,27 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishPushed_m6CBF72FE48F346
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:82>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:83>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:84>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:85>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:86>
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:87>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:88>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:89>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:90>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:91>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:92>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:93>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:94>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_2 = __this->___dishAnimation;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_3 = (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)il2cpp_codegen_object_new(Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
-		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_3, __this, (intptr_t)((void*)DishManager_U3COnDishPushedU3Eb__14_0_m9FB706358BEB828D3E9325479F7AA65233A4C27D_RuntimeMethod_var), NULL);
+		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_3, __this, (intptr_t)((void*)DishManager_U3COnDishPushedU3Eb__16_0_mE83C976F9F6A12AB3031BD2E2FBF32BFDC2A2FC0_RuntimeMethod_var), NULL);
 		NullCheck(L_2);
 		DishAnimation_PlayPushAnimation_m1EF39C1FB05C60D25B99E6B8122D116F1533A949(L_2, L_3, NULL);
 	}
 
 IL_002f:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:88>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:95>
 		return;
 	}
 }
-// Method Definition Index: 110820
+// Method Definition Index: 110821
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishFavorited_mC6EB07DA8A05DF893F8DCD707F49DA3B945806D0 (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5679,18 +5730,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_OnDishFavorited_mC6EB07DA8A0
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:92>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:99>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral5A7F57A3E53A6B5CDD1E0F17FD70CA6BCDCB4053, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:94>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:101>
 		return;
 	}
 }
-// Method Definition Index: 110821
+// Method Definition Index: 110822
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_Update_mF7FF742A421A9AC37B2727D43A3F90BDF29C8B3F (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:98>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:105>
 		Keyboard_t015BD1A6508137D20B4395295F6E002773FAAF43* L_0;
 		L_0 = Keyboard_get_current_mDE773B54C9975CEFEAA469AD091C49E150A3FEC3_inline(NULL);
 		NullCheck(L_0);
@@ -5705,13 +5756,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_Update_mF7FF742A421A9AC37B27
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:98>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:105>
 		DishManager_OnDishPulled_m994CB9AA11FEBA8DDC723566067ADC3974A78FBF(__this, NULL);
 	}
 
 IL_0017:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:99>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:106>
 		Keyboard_t015BD1A6508137D20B4395295F6E002773FAAF43* L_3;
 		L_3 = Keyboard_get_current_mDE773B54C9975CEFEAA469AD091C49E150A3FEC3_inline(NULL);
 		NullCheck(L_3);
@@ -5726,17 +5777,17 @@ IL_0017:
 		}
 	}
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:99>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:106>
 		DishManager_OnDishPushed_m6CBF72FE48F346B4EF4A490AE86D8F50564BA03C(__this, NULL);
 	}
 
 IL_002e:
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:100>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:107>
 		return;
 	}
 }
-// Method Definition Index: 110822
+// Method Definition Index: 110823
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager__ctor_m9C7E0FD927BAF6DB8773D31082CC171B9F78083F (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5744,41 +5795,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager__ctor_m9C7E0FD927BAF6DB8773D
 		return;
 	}
 }
-// Method Definition Index: 110823
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_U3COnDishPushedU3Eb__14_0_m9FB706358BEB828D3E9325479F7AA65233A4C27D (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
+// Method Definition Index: 110824
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DishManager_U3COnDishPushedU3Eb__16_0_mE83C976F9F6A12AB3031BD2E2FBF32BFDC2A2FC0 (DishManager_t6F06FDB4BD28C811087B82E62132EEEE17EEEF62* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:83>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:89>
 		DishManager_NextDish_m6CA6B2BDB1DFA0772893370EF7F45A6BE21621D0(__this, NULL);
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:85>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:90>
 		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_0 = __this->___dishAnimation;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_1;
-		L_1 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
-		{
-			goto IL_0025;
-		}
-	}
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:86>
-		DishAnimation_t0C51AE2406DB38D5D4F732864CA2D6155A3EF03E* L_2 = __this->___dishAnimation;
-		NullCheck(L_2);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
-		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_2, NULL);
-		NullCheck(L_3);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)1, NULL);
-	}
-
-IL_0025:
-	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:87>
+		NullCheck(L_0);
+		DishAnimation_ResetPosition_m3BC00E76A8C33F650C9ABC94B466FE29C6F1DEE0(L_0, NULL);
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:94>
 		return;
 	}
 }
@@ -5790,7 +5817,7 @@ IL_0025:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110824
+// Method Definition Index: 110825
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m191C22F3502F9D997279CF1FD7A53760F79FFB26 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5807,7 +5834,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m191C22F3502F9D997279CF1F
 		return;
 	}
 }
-// Method Definition Index: 110825
+// Method Definition Index: 110826
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m2179ED0841E95FCA2463B59BD7918DBCEEC9D792 (U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5815,11 +5842,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m2179ED0841E95FCA2463B59BD
 		return;
 	}
 }
-// Method Definition Index: 110826
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3COnDishPulledU3Eb__13_0_m4F2AED710CD4E89BF3BE1A65F9E413B276AF8C46 (U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* __this, const RuntimeMethod* method) 
+// Method Definition Index: 110827
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3COnDishPulledU3Eb__15_0_mBDFC341774A7646CD5F8DAAEC1007114FB3B736C (U3CU3Ec_t4AEDAC29205AE315D59F195B9CC057CB22977224* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:75>
+		//<source_info:/Users/codenextinglewood/Desktop/InglewoodEats/Assets/Scripts/DishManager.cs:81>
 		return;
 	}
 }
@@ -5831,7 +5858,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3COnDishPulledU3Eb__13_0_m4F2AE
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110827
+// Method Definition Index: 110828
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_Start_m8E41D2353266E6488B0A465C3BF038D9835C14CB (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5867,7 +5894,7 @@ IL_0018:
 		return;
 	}
 }
-// Method Definition Index: 110828
+// Method Definition Index: 110829
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_StartListening_m6E853CEA9FB195E6947C6D0C8FF48181CD2FD558 (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5917,7 +5944,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_StartListening_m6E853C
 		return;
 	}
 }
-// Method Definition Index: 110829
+// Method Definition Index: 110830
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_ReceiveLoop_mC512487B594137BD85C74B113440E60817950FCF (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6051,7 +6078,7 @@ IL_0061:
 		return;
 	}
 }
-// Method Definition Index: 110830
+// Method Definition Index: 110831
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_Update_m5254C98E417AF4D4A7B7BE76E0D0F43D96A2517D (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	String_t* V_0 = NULL;
@@ -6143,7 +6170,7 @@ IL_003f:
 		return;
 	}
 }
-// Method Definition Index: 110831
+// Method Definition Index: 110832
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_ProcessMessage_m674ECABFE751A97E0546413733648A3A80E89B93 (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, String_t* ___0_json, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6285,7 +6312,7 @@ IL_00a2:
 		return;
 	}
 }
-// Method Definition Index: 110832
+// Method Definition Index: 110833
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver_OnDestroy_m4D49A7E17EC12FF0E6C50541BDB46BCC2F3AD682 (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	UdpClient_t03C5278D44ADD98C3A506D8EA5445309FDF1F5B8* G_B2_0 = NULL;
@@ -6339,7 +6366,7 @@ IL_0023:
 		return;
 	}
 }
-// Method Definition Index: 110833
+// Method Definition Index: 110834
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver__ctor_mF330AF9A7CE6F7C698C80A36483644211EFAB77A (MediaPipeReceiver_t5CB01AAADAB4B5AC57A845A1C712490889A04AC6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6368,7 +6395,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeReceiver__ctor_mF330AF9A7CE6F7C
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110834
+// Method Definition Index: 110835
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeData__ctor_mB1E099E05DEBAD1C7FF9F73AE5886A71385C2770 (MediaPipeData_t7BE3605E22A92E087B562E7BE3DA069130CFB3FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6384,7 +6411,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPipeData__ctor_mB1E099E05DEBAD1C7FF
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110835
+// Method Definition Index: 110836
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 SerializableVector3_ToVector3_m34B0AA6CC8CB3BFC4AA47314259A28F089797E5D (SerializableVector3_tA40FC13A0B917D5ADEBD65122D27C3CE8DA173D9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6398,7 +6425,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A
 		return L_3;
 	}
 }
-// Method Definition Index: 110836
+// Method Definition Index: 110837
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SerializableVector3__ctor_m9E4B34E7C1B5E6B04DB1823E0DF97CD1A1B38A37 (SerializableVector3_tA40FC13A0B917D5ADEBD65122D27C3CE8DA173D9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6414,7 +6441,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SerializableVector3__ctor_m9E4B34E7C1B5E
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110837
+// Method Definition Index: 110838
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner_Start_m46BFD887ECBF3239B61B5538182547417D0C3611 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6473,7 +6500,7 @@ IL_0025:
 		return;
 	}
 }
-// Method Definition Index: 110838
+// Method Definition Index: 110839
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner_OnPlanesChanged_m709013B090A875D4FB53D8AF59B5A1C3AFB101C8 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, ARTrackablesChangedEventArgs_1_tEB03975F0BB8E8FF1B5EDAE64BB7F40F4C194FEC ___0_args, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6590,7 +6617,7 @@ IL_006a:
 		return;
 	}
 }
-// Method Definition Index: 110839
+// Method Definition Index: 110840
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner_OnObjectsDetected_m96C8CF7F9043A3AC3FFA7E6A77DD7DA58D5197E1 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, SerializableVector3_tA40FC13A0B917D5ADEBD65122D27C3CE8DA173D9* ___0_cupPos, SerializableVector3_tA40FC13A0B917D5ADEBD65122D27C3CE8DA173D9* ___1_forkPos, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6660,7 +6687,7 @@ IL_0009:
 		return;
 	}
 }
-// Method Definition Index: 110840
+// Method Definition Index: 110841
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 PlateSpawner_NormalizedToWorld_mAAD474CEC7007111B3089EBB032DCF473B2AF8E3 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_normalized, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -6680,7 +6707,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A
 		return L_5;
 	}
 }
-// Method Definition Index: 110841
+// Method Definition Index: 110842
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner_SpawnPlateAtPosition_m0B43631EB79ABF345F3EC0C3CACE77F9E5995AB3 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_position, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6755,7 +6782,7 @@ IL_0066:
 		return;
 	}
 }
-// Method Definition Index: 110842
+// Method Definition Index: 110843
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner_OnDisable_m5CC37CD1D22C2876D900A273E74CB2331CD45091 (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6797,7 +6824,7 @@ IL_002a:
 		return;
 	}
 }
-// Method Definition Index: 110843
+// Method Definition Index: 110844
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner__ctor_m52DD942A81CA323720B7A1E95EEF444537A79E6D (PlateSpawner_tAB1E59DAFFDFE5BC76FC529796D7C0CF477FE2CE* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6817,7 +6844,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlateSpawner__ctor_m52DD942A81CA323720B7
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 110844
+// Method Definition Index: 110845
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6851,7 +6878,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC
 		return L_6;
 	}
 }
-// Method Definition Index: 110845
+// Method Definition Index: 110846
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6980,6 +7007,20 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 		(&V_0)->___z = ((float)il2cpp_codegen_subtract(L_9, L_11));
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12 = V_0;
 		return L_12;
+	}
+}
+// Method Definition Index: 52584
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_0 = ((Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields*)il2cpp_codegen_static_fields_for(Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_il2cpp_TypeInfo_var))->___identityQuaternion;
+		return L_0;
 	}
 }
 // Method Definition Index: 52357
@@ -7482,20 +7523,6 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 		(&V_0)->___z = ((float)(L_7/L_8));
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9 = V_0;
 		return L_9;
-	}
-}
-// Method Definition Index: 52584
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline (const RuntimeMethod* method) 
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_0 = ((Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields*)il2cpp_codegen_static_fields_for(Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_il2cpp_TypeInfo_var))->___identityQuaternion;
-		return L_0;
 	}
 }
 // Method Definition Index: 11261

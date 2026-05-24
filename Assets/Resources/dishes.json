@@ -22,7 +22,7 @@
         {
             "id": "dish_002",
             "meal_name": "Wet Burrito",
-            "restaurant": "La Fonda of Inglewood Restaurant & Cafe",
+            "restaurant": "La Fonda",
             "ingredients": [
                 "Rice",
                 "Onion",
@@ -36,7 +36,7 @@
                 "Wheat"
             ],
             "address": "4649 W Century Blvd, Inglewood, CA 90304",
-            "area": "North",
+            "area": "South Inglewood",
             "picture": true,
             "cusine_type": "Mexican"
         }

@@ -37,6 +37,19 @@ public class DishAction : MonoBehaviour
         Vector3 movement = transform.position - startPosition;
 
         Debug.Log($"MovementX: {movement.x}, Y: {movement.y}, Z: {movement.z}");
+        // if (movement.z < -pullThreshold)
+        // {
+        //     Debug.Log("Detected: PULL");
+            
+        //     var grabInteractable = GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable>();
+        //     if (grabInteractable != null)
+        //     {
+        //         grabInteractable.enabled = false;
+        //         grabInteractable.enabled = true;
+        //     }
+
+        //     dishManager.OnDishPulled();
+        // }
 
         if (movement.z < -pullThreshold)
         {
