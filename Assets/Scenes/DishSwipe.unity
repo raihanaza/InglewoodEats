@@ -804,37 +804,6 @@ CapsuleCollider:
   m_Height: 0.05
   m_Direction: 2
   m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &316004784
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 316004785}
-  m_Layer: 0
-  m_Name: lafondaWrapper
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &316004785
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316004784}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.36750418, y: -0.43287957, z: 0.6721344, w: 0.47517505}
-  m_LocalPosition: {x: 0.082, y: -2.1, z: 1.485}
-  m_LocalScale: {x: 0.61109, y: 0.91663504, z: 6.4347777}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1954719597}
-  m_LocalEulerAnglesHint: {x: 111.382996, y: -166.9, z: -61.557983}
 --- !u!1 &370402195
 GameObject:
   m_ObjectHideFlags: 0
@@ -6306,9 +6275,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2960327200366904152, guid: 36f290f9dbf0f49d0911d83aa08db487, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1045494213}
-    - targetCorrespondingSourceObject: {fileID: 2960327200366904152, guid: 36f290f9dbf0f49d0911d83aa08db487, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 316004785}
     - targetCorrespondingSourceObject: {fileID: 2960327200366904152, guid: 36f290f9dbf0f49d0911d83aa08db487, type: 3}
       insertIndex: -1
       addedObject: {fileID: 385077278}
